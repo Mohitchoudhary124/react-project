@@ -447,5 +447,4 @@ module.exports = {
   userDetailByNameController,
   allUserDetailscontrolller,
  imageUpload
-
 };
