@@ -1,0 +1,43 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.signup {
+  background: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.form-design {
+  padding: 40px;
+  border-radius: 10px;
+  background: #fff;
+  color: #000;
+}
+
+.form-design h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  padding: 8px 30px;
+  border-radius: 20px;
+}
+
+.grap-img img {
+  width: 100%;
+}
+
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
